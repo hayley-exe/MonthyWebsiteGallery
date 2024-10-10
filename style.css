@@ -1,19 +1,19 @@
 .one {
-    background-color: cornflowerblue !important;
+    background-color: aqua !important;
 }
 .two {
-background-color: dodgerblue !important;
+background-color: darkturquoise !important;
 }
 .three {
-background-color: royalblue !important;
+background-color: deepskyblue !important;
 }
 .btn {
-    background: #63bbff;
-    background-image: -webkit-linear-gradient(top, #63bbff, #009dff);
-    background-image: -moz-linear-gradient(top, #63bbff, #009dff);
-    background-image: -ms-linear-gradient(top, #63bbff, #009dff);
-    background-image: -o-linear-gradient(top, #63bbff, #009dff);
-    background-image: linear-gradient(to bottom, #63bbff, #009dff);
+    background: aquamarine;
+    background-image: -webkit-linear-gradient(top, #63ffd8, #00ccff);
+    background-image: -moz-linear-gradient(top, #63ffd8, #00ccff);
+    background-image: -ms-linear-gradient(top,  #63ffd8, #00ccff);
+    background-image: -o-linear-gradient(top, #63ffd8, #00ccff);
+    background-image: linear-gradient(to bottom, #63ffd8, #00ccff);
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
@@ -26,15 +26,15 @@ background-color: royalblue !important;
   
   .btn:hover {
     background: #4c8eff;
-    background-image: -webkit-linear-gradient(top, #4c8eff, #0099ff);
-    background-image: -moz-linear-gradient(top, #4c8eff, #0099ff);
-    background-image: -ms-linear-gradient(top, #4c8eff, #0099ff);
-    background-image: -o-linear-gradient(top, #4c8eff, #0099ff);
-    background-image: linear-gradient(to bottom, #4c8eff, #0099ff);
+    background-image: -webkit-linear-gradient(top, #3bfded, #0099ff);
+    background-image: -moz-linear-gradient(top, #3bfded, #0099ff);
+    background-image: -ms-linear-gradient(top, #3bfded, #0099ff);
+    background-image: -o-linear-gradient(top, #3bfded, #0099ff);
+    background-image: linear-gradient(to bottom, #3bfded, #0099ff);
     text-decoration: none;
   }
   .topper {
-    background-image: -webkit-linear-gradient(top, #63bbff, #009dff);
+    background-image: -webkit-linear-gradient(top, rgb(127, 255, 238), rgb(0, 212, 212) );
     background-repeat: no-repeat;
     background-size:cover;
   }
